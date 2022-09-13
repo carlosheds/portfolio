@@ -8,16 +8,24 @@
 	>
 
 <channel>
-	<title>CarlosHeds Criação de Sites &#8211; Portifólio</title>
+	<title>Carlosheds Criação de Sites</title>
 	<atom:link href="https://carlosheds.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
 	<link>https://carlosheds.github.io/portfolio</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 12 Sep 2022 19:09:21 +0000</lastBuildDate>
+	<description>Portfólio</description>
+	<lastBuildDate>Tue, 13 Sep 2022 16:01:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://carlosheds.github.io/portfolio/wp-content/uploads/2022/09/favico.png</url>
+	<title>Carlosheds Criação de Sites</title>
+	<link>https://carlosheds.github.io/portfolio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
